@@ -179,6 +179,7 @@
     align-self: center;
     justify-self: center;
     margin-top: -170px;
+    height: 100%;
 }
 .container2-text {
     display: grid;
@@ -557,6 +558,10 @@ footer p {
     line-height: 20px;
     margin: 0 auto;
     margin-top: -35px;
+}
+footer img {
+    width: 10%;
+    margin: 0 auto;
 }
 /* ------------------------------------------- */
 @media screen and (max-width: 1024px) {
